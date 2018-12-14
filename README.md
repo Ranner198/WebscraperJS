@@ -9,5 +9,5 @@ a webscraper that uses the Cheerio and Request node packages
 5. change the working directory in your cmd, pwshell, or terminal with the '$cd <directory name>'
 6. Execute the node application with '$node WebScraper.js'
 
-# To Modify open in any IDE the comment lines should explain how to scrape from other sites and different classes or etc.
+### To Modify open in any IDE the comment lines should explain how to scrape from other sites and different classes or etc.
 Here is a good tutorial on how to get into webscraping with Cheerio and Node.js - https://github.com/cheeriojs/cheerio
